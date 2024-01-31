@@ -11,7 +11,7 @@
 - [] Formas de acessar o Terminal [Terminal, Windows Terminal]
 - [] Navegação básica [cd, ls, ls -la, pwd, clear]
 - [] Estrutura de Diretorios [/home, /, ~, /etc, /var, /tmp]
-- [] Trabalhando com arquivos e Diretórios [touch, mkdir, mv, cp, rm, rm -rf]
+- [] Trabalhando com arquivos e Diretórios [touch, rm, mkdir, rmdir, cp, mv, rm -rf]
 - [] Operadores [>, >>, |]
 - [] Pesquisa e filtragem [cat, less, find, history, grep]
 - [] Gerenciamento de processos [top, ps aux, kill]
